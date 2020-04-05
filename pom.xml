@@ -8,12 +8,13 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<packaging>war</packaging>
 	<groupId>com.giacom</groupId>
 	<artifactId>database-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>database-demo</name>
 	<description>Demo project for Spring Boot</description>
-<packaging>war</packaging>
+
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
